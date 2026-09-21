@@ -18,7 +18,9 @@ npx tailwindcss init -p
 
 # 6. Run
 npm run dev
+
 -------------------------------------------------------------------
+
 # 1. Stop anything running, then downgrade Vite
 npm install -D vite@^7.0.0
 
